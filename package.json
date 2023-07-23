@@ -1,0 +1,24 @@
+{
+  "name": "random-str-msg-aranwill",
+  "version": "1.0.0",
+  "description": "Random String Messages",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Aranwill/random-str-msg-aranwill.git"
+  },
+  "keywords": [],
+  "author": "Hector Rodriguez <rotceh47@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Aranwill/random-str-msg-aranwill/issues"
+  },
+  "homepage": "https://github.com/Aranwill/random-str-msg-aranwill#readme",
+  "bin": {
+    "random-str-msg": "bin/global.js"
+  },
+  "preferGlobal": true
+}
